@@ -113,3 +113,6 @@ Expand the knowledge base for more diverse conversations.
 Add machine learning models for dynamic response generation.
 
 Improve NLP processing for better intent detection.
+
+#OUTPUT-
+![Image](https://github.com/user-attachments/assets/ca24500a-fde4-40be-bd65-c60b7b61ed59)
